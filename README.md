@@ -30,11 +30,17 @@
   
 ## ✋🏻 Pré-requisitos
 
+</div>
+
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
+<div align="center">
+ 
 ## 🔥 Instalação e execução
 
+ </div>
+ 
 1. Faça um clone desse repositório;
 2. Entre na pasta onde clonou esse repositório;
 3. Rode `yarn` dentro da pasta `frontend` para instalar as dependências;
