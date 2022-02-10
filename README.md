@@ -32,7 +32,7 @@
 
 </div>
 
-- [Node.js](https://nodejs.org/en/)
+- [Vite.js](https://vitejs.dev)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
 <div align="center">
