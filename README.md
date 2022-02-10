@@ -6,7 +6,7 @@
 
 <img alt="imc-project" src="https://user-images.githubusercontent.com/87882835/153432915-b7d60814-95dc-47eb-ac41-12481bffd81a.png" height="350px" width="600px"></div>
 
-## Frontend</div>
+## Frontend
 
 > Vite | React.js
 <div align="center">
